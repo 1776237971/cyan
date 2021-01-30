@@ -1,4 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 p {
     font-size: 20px;
     color: rgb(241, 210, 35);
-   }
+}
+
+img {
+    width: 400px;
+}
